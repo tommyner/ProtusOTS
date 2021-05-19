@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'ProtusOTS'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4653b6ce682447c0b810a81aae375d27 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_04464a13fab54440ba4543c8a5b76d41 }}
         package: .
